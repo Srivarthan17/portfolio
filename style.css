@@ -26,7 +26,7 @@ body { background: var(--body-bg); color: var(--text-color); }
     border-radius: 10px;
     cursor: pointer;
     transition: 0.3s;
-    background: var(--primary);
+    background: aliceblue;
     color: var(--white);
     font-weight: 500;
 }
